@@ -108,8 +108,8 @@ After cleaning:
 ## Project Files
 | File | Description |
 |------|--------------|
-| [layoffs_raw.csv](https://github.com/Kennedy-og/Layoffs.project1/blob/main/layoffs%20cleaned.sql) | Original dataset |
-| [cleaned_layoffs.csv](./cleaned_layoffs.csv) | Final cleaned dataset |
+| [layoffs_raw.csv] | Original dataset |
+| [cleaned_layoffs.csv](https://github.com/Kennedy-og/Layoffs.project1/blob/main/layoffs%20cleaned.sql) | Final cleaned dataset |
 | [README.md](./README.md) | Project documentation |
 
 ---
