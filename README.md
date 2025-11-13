@@ -5,7 +5,7 @@ The goal was to transform messy, duplicate-filled data into a clean, reliable da
 
 ---
 
-## 🗂️ Table of Contents
+## Table of Contents
 1. [Project Overview](#project-overview)
 2. [Objectives](#objectives)
 3. [Tools Used](#tools-used)
@@ -131,4 +131,4 @@ If you find this project helpful or want to collaborate, reach out!
 ---
 
 ⭐ *If you like this project, don’t forget to give it a star on GitHub!*
-# [Top](project-verview)
+- [Top](table-of-contents)
