@@ -108,7 +108,7 @@ After cleaning:
 ## Project Files
 | File | Description |
 |------|--------------|
-| [layoffs_raw.csv](C:\Users\DELL\Documents\Personal data sets) | Original dataset |
+| [layoffs_raw.csv](./raw_layoffs.csv) | Original dataset |
 | [cleaned_layoffs.csv](./cleaned_layoffs.csv) | Final cleaned dataset |
 | [README.md](./README.md) | Project documentation |
 
