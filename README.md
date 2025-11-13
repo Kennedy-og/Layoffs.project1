@@ -19,7 +19,7 @@ The goal was to transform messy, duplicate-filled data into a clean, reliable da
 
 ---
 
-## 📖 Project Overview
+## Project Overview
 This project explores the **wave of layoffs** that have affected companies worldwide across various industries.  
 The dataset contains information such as:
 - Company name  
@@ -33,7 +33,7 @@ The purpose of this project is to **standardize, clean, and structure** the data
 
 ---
 
-## 🎯 Objectives
+## Objectives
 - Detect and remove duplicate records.  
 - Standardize company, country, and industry names.  
 - Handle null and blank values logically.  
@@ -42,14 +42,14 @@ The purpose of this project is to **standardize, clean, and structure** the data
 
 ---
 
-## 🧰 Tools Used
+## Tools Used
 - **SQL (MySQL Workbench)** – for data cleaning and manipulation  
 - **CTEs & Window Functions** – for identifying duplicates and ranking records  
 - **Excel / Power BI (optional)** – for validation and visualization  
 
 ---
 
-## 🧹 Data Cleaning Workflow
+## Data Cleaning Workflow
 
 ### 1. Data Loading
 - Imported raw layoffs dataset into MySQL database.
@@ -78,7 +78,7 @@ The purpose of this project is to **standardize, clean, and structure** the data
 
 ---
 
-## 🧠 Key SQL Techniques
+## Key SQL Techniques
 - **CTEs (Common Table Expressions)** – for organized duplicate checking.  
 - **Window Functions** – for ranking and partitioning duplicate records.  
 - **String Functions** – `TRIM()`, `LIKE`, and pattern matching for data standardization.  
@@ -87,7 +87,7 @@ The purpose of this project is to **standardize, clean, and structure** the data
 
 ---
 
-## ⚙️ Challenges & Solutions
+## Challenges & Solutions
 | Challenge | Solution |
 |------------|-----------|
 | Inconsistent industry labels | Used pattern matching and manual corrections (`LIKE 'crypto%' → 'Crypto'`). |
@@ -97,7 +97,7 @@ The purpose of this project is to **standardize, clean, and structure** the data
 
 ---
 
-## 📈 Results
+## Results
 After cleaning:
 - The dataset became **fully standardized**, **duplicate-free**, and **ready for analysis**.  
 - Null values and inconsistent text entries were resolved.  
@@ -105,7 +105,7 @@ After cleaning:
 
 ---
 
-## 📁 Project Files
+## Project Files
 | File | Description |
 |------|--------------|
 | [layoffs_raw.csv](./layoffs_raw.csv) | Original dataset |
@@ -115,14 +115,14 @@ After cleaning:
 
 ---
 
-## 🧭 How to Navigate
+## How to Navigate
 - Start with the `layoffs_staging.sql` file to follow the full cleaning workflow.  
 - Use the **Table of Contents** above to jump between sections.  
 - Each SQL section is commented for clarity and learning.
 
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 If you find this project helpful or want to collaborate, reach out!  
 
 - **LinkedIn:** [Kennedy Ogundipe](https://www.linkedin.com/in/kehinde-ogundipe-69505b323)  
